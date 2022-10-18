@@ -157,3 +157,4 @@ cython_debug/
 
 save.dat
 *.dat
+/fonts
